@@ -29,4 +29,4 @@ Windows 11 (21H2) 22000.593 OS Build
 ### AUTHOR 
 Vaibhavi Thakkar
 ### ACKNOWLEDGEMENTS
-This code was a part of previous assignment for the subject 1202 in the course. 
+This code was  based on Analysis of Mental Health in Tech Survey 
